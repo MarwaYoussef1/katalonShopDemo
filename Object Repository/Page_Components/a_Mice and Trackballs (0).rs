@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mice and Trackballs (0)</name>
+   <tag></tag>
+   <elementGuidId>a5362684-2bf6-46e3-bd31-92d506523a57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-3 > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Mice and Trackballs (0)&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2e061c53-2956-4b80-ad0a-5c24ab80b906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://opencart.abstracta.us:80/index.php?route=product/category&amp;path=25_29</value>
+      <webElementGuid>5ba6f598-c04b-4008-9789-db939f938af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mice and Trackballs (0)</value>
+      <webElementGuid>7731c617-f687-4af4-aa0f-03619bb57bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>6aac428d-bb40-4dc0-975b-9cb71e259227</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/ul/li/a</value>
+      <webElementGuid>5e8bfdb1-a372-412b-aee6-00e8265184cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Mice and Trackballs (0)')])[3]</value>
+      <webElementGuid>87732d08-f67a-4c7a-928e-c27401168807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refine Search'])[1]/following::a[1]</value>
+      <webElementGuid>77f2ea51-388a-43d4-9ce3-eb9c2f78589c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Components'])[4]/following::a[1]</value>
+      <webElementGuid>3962190d-7f50-47ef-9ad0-ec947f6b5b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitors (2)'])[2]/preceding::a[1]</value>
+      <webElementGuid>24e66132-bcf3-4e21-8a41-393a6f600a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Printers (0)'])[2]/preceding::a[2]</value>
+      <webElementGuid>fac0bbab-7a10-4132-b9a5-df4ebc21e3e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://opencart.abstracta.us:80/index.php?route=product/category&amp;path=25_29'])[3]</value>
+      <webElementGuid>7775ca4d-9173-4f14-97d0-8ec8644ae466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/ul/li/a</value>
+      <webElementGuid>726fb6a2-857c-4f53-ad7b-5c577ea3ec3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://opencart.abstracta.us:80/index.php?route=product/category&amp;path=25_29' and (text() = 'Mice and Trackballs (0)' or . = 'Mice and Trackballs (0)')]</value>
+      <webElementGuid>4b8e215d-be4f-45d3-8080-069ad7a88ba4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
