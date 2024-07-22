@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Deposit_1</name>
+   <tag></tag>
+   <elementGuidId>faee6938-8577-4fbc-bf88-22c0860aa8ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=form >> internal:role=button[name=&quot;Deposit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e2ff91ca-61aa-4e8f-9822-6eef88e6a7d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>481877fe-3935-49af-ba8f-3c5095084ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default</value>
+      <webElementGuid>d4b0f86a-f2aa-4715-aba5-9ae327b3c629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deposit</value>
+      <webElementGuid>471d6611-8188-48e3-a626-c7380c67e265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;container-fluid mainBox ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/form[@class=&quot;ng-dirty ng-valid-number ng-valid ng-valid-required&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>3501d6ab-c19a-44de-b9ec-72623d755aaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@value='']</value>
+      <webElementGuid>183c82a7-eb27-4b3e-bb17-19f2f2d57fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount to be Deposited :'])[1]/following::button[1]</value>
+      <webElementGuid>38a2589b-90cb-4d7b-8e13-f584f501d63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawl'])[1]/following::button[1]</value>
+      <webElementGuid>94331a1c-a8d5-4afd-970c-41cadf7ab622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>1ed76ccf-0a45-4b33-9f2f-cebee6a3084f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Deposit' or . = 'Deposit')]</value>
+      <webElementGuid>a2dca572-11a9-444b-a7e1-b18143f439a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

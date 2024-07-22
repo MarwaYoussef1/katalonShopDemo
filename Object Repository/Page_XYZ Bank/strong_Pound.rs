@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Pound</name>
+   <tag></tag>
+   <elementGuidId>e71a604f-0b8d-45fd-97b1-ad8fbd38ffdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Please open an account with us.'])[1]/following::strong[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Pound&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>432ffebf-9b46-4c53-92ed-75148f246c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>f4ba370b-2a26-4794-8c0f-10be778f8ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pound</value>
+      <webElementGuid>952f417e-d668-4065-811f-81ddba1a29ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;center&quot;]/strong[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>f077a5c0-12ce-451a-93c6-50a362c1ea86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please open an account with us.'])[1]/following::strong[3]</value>
+      <webElementGuid>70a72997-a6a8-4a56-ac47-155d61ac2ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/preceding::strong[1]</value>
+      <webElementGuid>13685e07-e295-44ba-a2ea-79cd89ab0244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit'])[1]/preceding::strong[1]</value>
+      <webElementGuid>7d198669-b9de-4a16-9f01-e7f9bcd0557b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pound']/parent::*</value>
+      <webElementGuid>9c19a4fc-c229-4d48-a979-778c9a17b1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong[3]</value>
+      <webElementGuid>83ca815f-9187-4fce-8e1c-21bc420693c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Pound' or . = 'Pound')]</value>
+      <webElementGuid>d10200f9-0f71-42f6-8f2b-98ebc4d01318</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

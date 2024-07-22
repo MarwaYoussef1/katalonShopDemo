@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestOpenAccountByCurrency</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49837331-9b17-4506-a339-d9d580f7ab2c</testCaseGuid>
+</TestCaseEntity>
