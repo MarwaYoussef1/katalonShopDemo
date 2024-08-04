@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>bb710c61-27ba-4eaf-88ea-044c9548708b</webElementGuid>
+      <webElementGuid>17893cf3-fd89-4af4-b92b-a103f0d7992e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-binding</value>
-      <webElementGuid>f46ab792-6984-40c3-803c-27395235c142</webElementGuid>
+      <webElementGuid>ab6aae84-af63-4668-9e5f-50c109daea83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Marwa</value>
-      <webElementGuid>16a58d94-d881-431a-9cfe-841512c43ba1</webElementGuid>
+      <webElementGuid>04797e38-6cae-431e-9497-ea97a8a79c60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop ng-scope&quot;]/div[1]/table[@class=&quot;table table-bordered table-striped&quot;]/tbody[1]/tr[@class=&quot;ng-scope&quot;]/td[@class=&quot;ng-binding&quot;]</value>
-      <webElementGuid>e42b20e2-0675-4a24-b2e4-21a06e030e19</webElementGuid>
+      <webElementGuid>919f9be6-6436-470e-88ee-f618c8ac154c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[5]/following::td[1]</value>
-      <webElementGuid>411c9ac3-af81-47ac-ab79-ec015d4d5e73</webElementGuid>
+      <webElementGuid>2382b26a-fd31-4de0-91f5-3068f41c04eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='E89898'])[1]/following::td[3]</value>
-      <webElementGuid>e5c1e0e9-c2ce-4d11-8934-69228ccd5383</webElementGuid>
+      <webElementGuid>0b7664ce-d1e8-497a-80d5-80108f9fcabd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Youssef'])[1]/preceding::td[1]</value>
-      <webElementGuid>f3e9e7f4-0574-47de-831f-28ade9599088</webElementGuid>
+      <webElementGuid>897a3bad-e4ef-4e85-8f1d-580c6e282142</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[6]/preceding::td[4]</value>
-      <webElementGuid>45276478-9599-4ff6-b7cb-44035ec45a30</webElementGuid>
+      <webElementGuid>fba35db5-54c4-4a78-8182-ae433a45be31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Marwa']/parent::*</value>
-      <webElementGuid>482c20b1-c55f-44cd-bc69-21e301d2b4d5</webElementGuid>
+      <webElementGuid>753c937e-c45d-42fd-99b1-e58f5a9f10c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[6]/td</value>
-      <webElementGuid>96e9c28e-bb72-448a-a73b-8bafea91e1e2</webElementGuid>
+      <webElementGuid>4cd79ee9-397e-4f70-b5b2-f7c43b47c3e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Marwa' or . = 'Marwa')]</value>
-      <webElementGuid>9c531745-4a08-4ad7-8453-a043bc172919</webElementGuid>
+      <webElementGuid>7d4bfd1a-834d-462c-bb02-9845d57c6052</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

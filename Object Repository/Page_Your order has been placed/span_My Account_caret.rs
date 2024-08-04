@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_My Account_caret</name>
+   <tag></tag>
+   <elementGuidId>83724afa-f76e-4d47-9d60-353e0197e443</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.caret</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top-links']/ul/li[2]/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; My Account&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b95dcc4f-0c5b-4189-95c7-c5da9b8cb7c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caret</value>
+      <webElementGuid>d6bfa544-1623-4206-84eb-a2ab71d8d60c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;caret&quot;]</value>
+      <webElementGuid>085b4a3b-b1ae-4c7f-b09a-01969f86bb6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-links']/ul/li[2]/a/span[2]</value>
+      <webElementGuid>24f0e8fd-86cd-41c6-87d4-da4001bc42f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>7fc503dc-552c-4c23-9bd2-41c14832d516</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

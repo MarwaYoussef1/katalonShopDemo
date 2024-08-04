@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e1a1b390-fa59-4087-97df-4a949a525b9c</webElementGuid>
+      <webElementGuid>1fc6e1b1-a42b-43fb-84dc-5210cf0ce83e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>btnClass1</value>
-      <webElementGuid>fb0f6170-c687-491f-a381-b1de390f6491</webElementGuid>
+      <webElementGuid>31949a46-2802-48c6-b698-bc05681fae39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg tab</value>
-      <webElementGuid>d4b07441-29b0-4adc-bdff-477b6b5c3dc8</webElementGuid>
+      <webElementGuid>420e3fc8-10fa-4287-a869-e0c8e908dae1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>addCust()</value>
-      <webElementGuid>e5912c80-88c3-4fd2-ab09-df11679ac8c4</webElementGuid>
+      <webElementGuid>026bc5dc-1443-489c-8a6b-87e142490f6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <type>Main</type>
       <value>Add Customer
 		</value>
-      <webElementGuid>032acd73-c97b-485d-b3e4-3c5699395b01</webElementGuid>
+      <webElementGuid>f7e1f43a-670e-452f-942d-d02071fc2063</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;center&quot;]/button[@class=&quot;btn btn-lg tab&quot;]</value>
-      <webElementGuid>3ef04c03-8e68-471f-8a99-4d1274a1b652</webElementGuid>
+      <webElementGuid>5241d77c-248c-4909-84a4-a035480b1053</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[1]</value>
-      <webElementGuid>00f09d77-1ed9-4600-986d-ed4d0cbdf2a0</webElementGuid>
+      <webElementGuid>87e3df33-8844-4e51-9cc0-dda8a61f2887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='XYZ Bank'])[2]/following::button[2]</value>
-      <webElementGuid>5d157af9-77d5-4c3f-9387-1bdaeb799418</webElementGuid>
+      <webElementGuid>bb435bc5-a44d-44b3-b75f-aa1385a407be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Account'])[1]/preceding::button[1]</value>
-      <webElementGuid>8adfc7d9-b92a-41de-bd82-02dbefe0b046</webElementGuid>
+      <webElementGuid>23b99e95-4d24-4729-b90b-707940f75984</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customers'])[1]/preceding::button[2]</value>
-      <webElementGuid>ce8df2ba-e963-42e0-91a9-b43f320d9e96</webElementGuid>
+      <webElementGuid>25bc7bab-54b5-4a22-8830-b5654ed78eee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add Customer']/parent::*</value>
-      <webElementGuid>55ac418b-ae75-47c9-84c7-ddc30a9c13de</webElementGuid>
+      <webElementGuid>1fe2411d-700a-4f4d-9242-c37ad2bfce97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button</value>
-      <webElementGuid>60e878fb-fe5b-4541-a90b-8c04a81c09aa</webElementGuid>
+      <webElementGuid>b59a0886-c293-4504-8135-e631a9f45188</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,6 +128,6 @@
       <value>//button[(text() = 'Add Customer
 		' or . = 'Add Customer
 		')]</value>
-      <webElementGuid>634a642e-c571-4ef5-aa25-b51d6b072ad8</webElementGuid>
+      <webElementGuid>513e5b8e-0c6f-4aa2-b777-9c013852969d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

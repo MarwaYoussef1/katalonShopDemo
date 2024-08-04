@@ -17,31 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://opencart.abstracta.us/index.php?route=account/logout')
+WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+WebUI.navigateToUrl('https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login')
 
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Bank Manager Login'))
 
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Add Customer'))
 
-WebUI.click(findTestObject('Object Repository/Page_Your Store/span_My Account'))
+WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51'), 'Marwa')
 
-WebUI.click(findTestObject('Object Repository/Page_Your Store/a_Login'))
+WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d'), 'Youssef')
 
-WebUI.setText(findTestObject('Object Repository/Page_Account Login/input_E-Mail Address_email'), 'marwa.abdelrahmaan@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Post Code_form-control ng-pristine ng_b8fd27'), '12315')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Account Login/input_Password_password'), 'cYYE/iK6uDo=')
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Add Customer_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_Account Login/input_Forgotten Password_btn btn-primary'))
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Customers'))
 
-WebUI.click(findTestObject('Object Repository/Page_My Account/h2_My Account'))
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/td_Marwa'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_My Account/h2_My Account'), 'My Account')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_XYZ Bank/td_Marwa'), 'Marwa')
 
-WebUI.click(findTestObject('Object Repository/Page_My Account/span_My Account_caret'))
-
-WebUI.click(findTestObject('Object Repository/Page_My Account/a_Logout'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Account Logout/p_You have been logged off your account. It_3147bb'))
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Home'))
 
 WebUI.closeBrowser()
 

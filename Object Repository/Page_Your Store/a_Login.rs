@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>10f2cdc0-d5f1-4a48-98e3-9e65170c21fd</webElementGuid>
+      <webElementGuid>7286d2d6-6a65-45c2-81ce-4de03e5c8af9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://opencart.abstracta.us:443/index.php?route=account/login</value>
-      <webElementGuid>7fb3c7d0-7de4-431c-908e-0d52c2b710b6</webElementGuid>
+      <webElementGuid>735287eb-0e2a-4588-b5f3-ee932d7e3976</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>27b7b63c-6a56-4a27-8c0d-52e76cead16c</webElementGuid>
+      <webElementGuid>335e08da-c5ea-4505-a609-1fb9366069e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right&quot;]/li[2]/a[1]</value>
-      <webElementGuid>e6c804f8-33cb-4a82-8e62-c077f1cce8ee</webElementGuid>
+      <webElementGuid>49ec5b11-c4c0-4e08-814c-fc22345e1fd0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
-      <webElementGuid>68f7a0a1-9a18-4a81-899d-57fab3b23781</webElementGuid>
+      <webElementGuid>e35f69d6-e36e-4bed-8be5-b0fef604ea63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>a5f0eb48-0dd9-4474-ade8-6622545459e9</webElementGuid>
+      <webElementGuid>6032307f-0157-4200-8a71-a2ef94da88c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>caa12def-438f-4064-bd39-2f0ecc1aa03c</webElementGuid>
+      <webElementGuid>486cad4d-1364-4124-acd6-ead284df86e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/following::a[2]</value>
-      <webElementGuid>341a2773-3ec3-4016-bcfb-b6b8bbbdefaa</webElementGuid>
+      <webElementGuid>3e6a109c-e71d-4f75-accd-9404230fc9ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (0)'])[1]/preceding::a[1]</value>
-      <webElementGuid>e0f82ea1-8a8b-43af-9e81-e26766f3991d</webElementGuid>
+      <webElementGuid>1a8607c8-c7ac-4b29-aa58-016e73191e81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>0fe5bfd4-043f-4947-a160-cc7d34d6b29b</webElementGuid>
+      <webElementGuid>11a43413-1b13-4e46-8759-33d57f0febb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>dd721b9c-9215-485d-8838-f576ff2243f7</webElementGuid>
+      <webElementGuid>83fa7aac-0ee3-4c42-8014-48f0fe8d9f2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://opencart.abstracta.us:443/index.php?route=account/login')]</value>
-      <webElementGuid>8dc57e4a-8b94-41f9-a63c-4c882d37a7a2</webElementGuid>
+      <webElementGuid>fbc194d1-586c-4c41-8cbd-0ca05d175f50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/ul/li[2]/a</value>
-      <webElementGuid>d433d3e8-a812-4a76-b78c-b5e7526d81ae</webElementGuid>
+      <webElementGuid>47646cff-5769-4762-bfa3-86e2db4fb219</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://opencart.abstracta.us:443/index.php?route=account/login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>27591404-cb25-45d4-bada-9508a2e4ace9</webElementGuid>
+      <webElementGuid>4b565cb3-5364-4163-a094-051f8d160486</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

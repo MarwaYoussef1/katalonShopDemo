@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b1335f8a-730a-4b9a-a963-4fa559dde8da</webElementGuid>
+      <webElementGuid>763cfe74-979c-4555-80bb-6e0f49faa3cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-pristine ng-untouched ng-invalid ng-invalid-required</value>
-      <webElementGuid>44fef709-5c82-4d2d-8c63-b047c483f605</webElementGuid>
+      <webElementGuid>304f11a1-57fd-4359-a3da-defc3fd7658d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8f4eaef9-77d8-4f54-888f-525b75121d9b</webElementGuid>
+      <webElementGuid>a09fd7be-ecf4-4b96-bc4e-d0529f91f154</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>lName</value>
-      <webElementGuid>e5be0948-83de-4f86-9984-4af0793da56f</webElementGuid>
+      <webElementGuid>8242adb6-1456-44b8-bf4b-9230bc506605</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Last Name</value>
-      <webElementGuid>dae245a8-b2a9-4169-8194-dea16a42e8c4</webElementGuid>
+      <webElementGuid>fbbc30b1-6420-4917-bcb8-e906420ced5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop&quot;]/form[@class=&quot;ng-invalid ng-invalid-required ng-dirty ng-valid-parse&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-pristine ng-untouched ng-invalid ng-invalid-required&quot;]</value>
-      <webElementGuid>597ca58b-dc05-4027-8fcc-468e6adfb950</webElementGuid>
+      <webElementGuid>6adda3e1-d547-45d1-8519-19b69792dd7c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>677314bf-aa0a-48ae-839a-c81c920f52d1</webElementGuid>
+      <webElementGuid>6280e000-e5fc-447c-b10a-eb9bfa255ad6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>99f5fb10-6232-4e40-b083-066defb45ba4</webElementGuid>
+      <webElementGuid>01289646-9216-4bb6-8eea-4aff74c5a1d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Last Name']</value>
-      <webElementGuid>55ad62f6-45db-48b3-b262-9e57a85d5fe2</webElementGuid>
+      <webElementGuid>3320f1f4-d55e-483a-84f8-7df41d6d8b08</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

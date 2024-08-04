@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3aaee9d1-298c-4055-a94f-7a923c3eb646</webElementGuid>
+      <webElementGuid>d8bb66f2-7dea-43b4-9954-973449b8580c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn home</value>
-      <webElementGuid>656c444a-238e-41bb-8567-843445e66419</webElementGuid>
+      <webElementGuid>4bcc3609-fd3c-4cd8-8fb8-e84d1ff085b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>home()</value>
-      <webElementGuid>3dc238bf-ca4d-43c2-9267-d5ce22759778</webElementGuid>
+      <webElementGuid>9c8b06d6-5c72-41d2-a9de-18b08d9a04ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Home</value>
-      <webElementGuid>ec57be41-c134-4b74-9d44-083696a66b2a</webElementGuid>
+      <webElementGuid>bc87b5cf-dd2a-406f-9c68-03750bbc3e7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;box mainhdr&quot;]/button[@class=&quot;btn home&quot;]</value>
-      <webElementGuid>231eea4e-7d56-4d52-815a-17a85d83f84e</webElementGuid>
+      <webElementGuid>1971dd2d-8a11-45f6-bfe2-55bbf8cba7f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='XYZ Bank'])[2]/preceding::button[1]</value>
-      <webElementGuid>9af179ff-9eb8-4be8-a99c-ffaa7b3fc528</webElementGuid>
+      <webElementGuid>1f0fccfc-8e50-4cf4-9000-8e67f42e32af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::button[1]</value>
-      <webElementGuid>d1f773d8-8e1f-4b53-adbf-244bcd11c90a</webElementGuid>
+      <webElementGuid>0edfb205-02a2-4103-b68f-528a6b702d52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
-      <webElementGuid>e945bc68-f06e-4c32-9ce9-72d2d99d436a</webElementGuid>
+      <webElementGuid>320f7906-1e90-421b-9701-535049560588</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>619d0d24-ee31-47c7-969b-bfe8b8400db0</webElementGuid>
+      <webElementGuid>92da0e16-8b6f-44f7-85ad-58b624367643</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Home' or . = 'Home')]</value>
-      <webElementGuid>cde8ca7f-dc5c-4623-94de-514b611e64ba</webElementGuid>
+      <webElementGuid>5032cc3f-af3f-40d8-9d53-d15d3f0a482e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

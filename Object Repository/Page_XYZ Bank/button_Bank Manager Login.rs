@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9b40d84a-a691-4433-9991-081c3a084975</webElementGuid>
+      <webElementGuid>a941ec62-84e2-444b-89cc-ad7ac098d835</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-lg</value>
-      <webElementGuid>7c0affdd-2ec4-4466-9be5-f653f16847bf</webElementGuid>
+      <webElementGuid>c733bf7a-8550-4fe3-98d9-f164742c611e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>manager()</value>
-      <webElementGuid>15751a21-a992-4fc7-ba77-c31f3aa8a1a4</webElementGuid>
+      <webElementGuid>96d49235-01ed-4407-b34a-e804e53fc27c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Bank Manager Login</value>
-      <webElementGuid>1cc6fba7-d86c-460e-95cf-16f69353638a</webElementGuid>
+      <webElementGuid>8398188a-c5f2-4a77-9820-865aece1f676</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20&quot;]/div[@class=&quot;center&quot;]/button[@class=&quot;btn btn-primary btn-lg&quot;]</value>
-      <webElementGuid>2f16335b-ef90-4a86-8b09-c599126c7dad</webElementGuid>
+      <webElementGuid>e081e40a-c9ab-4d8c-8146-19b89afb94df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Login'])[1]/following::button[1]</value>
-      <webElementGuid>94801d9b-5c59-4c8e-b3e1-a78675af0e9a</webElementGuid>
+      <webElementGuid>141dbb2e-a3ba-43ab-be46-f075dc086385</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::button[2]</value>
-      <webElementGuid>14a21fb6-a852-45d0-9457-1dae61d2b72c</webElementGuid>
+      <webElementGuid>4d19659d-333b-4bf1-858c-1bc9341c940d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Bank Manager Login']/parent::*</value>
-      <webElementGuid>c51de3cf-39cf-43a5-922b-ef9d3ddf14b4</webElementGuid>
+      <webElementGuid>3e1f2432-3db4-4fdc-a6c1-7bb4b3bd2e67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>dba77c9c-8273-4efa-b07a-01049407345e</webElementGuid>
+      <webElementGuid>c84e3b5b-4443-49a1-a7ca-00165f9746b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Bank Manager Login' or . = 'Bank Manager Login')]</value>
-      <webElementGuid>df8eaabf-baa8-47ed-9ac5-45736fda0f77</webElementGuid>
+      <webElementGuid>6e6932c9-9b13-4d43-b263-27103495fd2d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

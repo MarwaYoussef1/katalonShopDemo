@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>enviroment</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://opencart.abstracta.us/index.php'</initValue>
+      <name>HOME_URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

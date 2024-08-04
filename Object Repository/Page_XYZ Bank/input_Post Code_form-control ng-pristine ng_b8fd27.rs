@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d1a0e256-f969-4160-a562-e28fd0ce88d8</webElementGuid>
+      <webElementGuid>57c451dc-48d3-48fb-a1d7-33f77f216c50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-pristine ng-untouched ng-invalid ng-invalid-required</value>
-      <webElementGuid>07590eca-62aa-4e6d-a484-ed236bf7c6fc</webElementGuid>
+      <webElementGuid>d62e5fa2-cdc6-426a-a324-ac83d3a54812</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0ee364d2-962b-4c29-b846-696f1d712533</webElementGuid>
+      <webElementGuid>98b03e96-ad0d-4bd6-a690-bf09e7120786</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-model</name>
       <type>Main</type>
       <value>postCd</value>
-      <webElementGuid>9d5c3574-7fd5-4d82-bbf0-8d52ef075da7</webElementGuid>
+      <webElementGuid>ef86006f-2fcf-4823-9430-06d50086294c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Post Code</value>
-      <webElementGuid>32d4f268-3e05-49bd-84f4-b5c179f44325</webElementGuid>
+      <webElementGuid>e999042c-148c-4d4a-81d2-4c9c35bf23c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;border box padT20 ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop&quot;]/form[@class=&quot;ng-invalid ng-invalid-required ng-dirty ng-valid-parse&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control ng-pristine ng-untouched ng-invalid ng-invalid-required&quot;]</value>
-      <webElementGuid>fde0335e-df61-47ec-8e40-7a2575373ef0</webElementGuid>
+      <webElementGuid>63383cfd-480c-47a4-84ef-65c53f0403dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[3]</value>
-      <webElementGuid>4cb47b8d-3408-4260-842b-d012739ca6ec</webElementGuid>
+      <webElementGuid>c7ec88f9-ba3a-484f-bd95-5a21ff411bdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>fe0abf06-b281-4efa-b3e6-df8b2e461f10</webElementGuid>
+      <webElementGuid>90ff4ff3-6f73-4ee4-a5fc-0d4646df8f0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Post Code']</value>
-      <webElementGuid>876f2ad0-6677-411f-baab-cec6890b5b6e</webElementGuid>
+      <webElementGuid>d9a1327a-29c0-43d1-a576-ed2071ea8bfe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

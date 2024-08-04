@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_100.00_fa fa-times</name>
+   <tag></tag>
+   <elementGuidId>06b5f42f-9265-44ac-8d83-c24e9b0b3da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart']/ul/li/table/tbody/tr/td[5]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;HTC Touch HD HTC Touch HD x 1 $100.00 &quot;i] >> internal:attr=[title=&quot;Remove&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d491629e-389d-463a-9f92-7b93b51a5d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times</value>
+      <webElementGuid>0b7215cc-d5ee-47b3-baa5-fced5c0bd612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart&quot;)/ul[@class=&quot;dropdown-menu pull-right&quot;]/li[1]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[1]/td[@class=&quot;text-center&quot;]/button[@class=&quot;btn btn-danger btn-xs&quot;]/i[@class=&quot;fa fa-times&quot;]</value>
+      <webElementGuid>8a5c2aef-39a2-413b-aac2-e411cb9d7158</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart']/ul/li/table/tbody/tr/td[5]/button/i</value>
+      <webElementGuid>a105865a-2ca0-44a4-8e7b-f65f2b54f061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/button/i</value>
+      <webElementGuid>b997ae0f-ba1e-4126-ba1c-3f1966fdf7a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TestConfirmCart</name>
+   <name>TestAddAccount</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>014e79b9-59c1-45d6-beb7-fca5deb6bb32</testCaseGuid>
+   <testCaseGuid>e63680a2-4e65-47d2-801f-d61b2c2440c6</testCaseGuid>
 </TestCaseEntity>

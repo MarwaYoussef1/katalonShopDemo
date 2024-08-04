@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1385b2f5-184a-403a-942e-884b76b06bc5</webElementGuid>
+      <webElementGuid>9440fa0b-356e-4524-b69f-6752ee1a0af4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hidden-xs hidden-sm hidden-md</value>
-      <webElementGuid>605499b8-a4a7-44e4-bb5f-4f12bb8a447b</webElementGuid>
+      <webElementGuid>6786a31c-f522-4290-b0b0-c27644d3f43c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>My Account</value>
-      <webElementGuid>c472c255-662b-4fda-83fe-50b3bc4a62ad</webElementGuid>
+      <webElementGuid>3d5d3b33-cd3c-4359-9d3f-60af670b4570</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;hidden-xs hidden-sm hidden-md&quot;]</value>
-      <webElementGuid>4d88c4ec-40e8-487d-b133-21f62b2d6b3e</webElementGuid>
+      <webElementGuid>38cc9d47-1a9f-4826-b642-23a82b21e6f6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top-links']/ul/li[2]/a/span</value>
-      <webElementGuid>7e3f14f4-f988-4115-a30b-08b6130a84f7</webElementGuid>
+      <webElementGuid>f66b9367-e7a1-4a85-bd17-3ec6d6324e3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$ US Dollar'])[1]/following::span[2]</value>
-      <webElementGuid>33c40d80-13bf-4524-9dfb-e5fd0bcf46bb</webElementGuid>
+      <webElementGuid>6dfd63bc-ff7b-48cf-b9a7-30d580d20072</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='£ Pound Sterling'])[1]/following::span[2]</value>
-      <webElementGuid>eda44586-9f29-419b-88ae-20f93e8bc4b9</webElementGuid>
+      <webElementGuid>ff867e44-80ee-4e37-b24b-e0dbcac1f6fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::span[2]</value>
-      <webElementGuid>bdab83b5-27a4-48c2-9e0b-fe227b042461</webElementGuid>
+      <webElementGuid>0c53595e-d1be-46a5-ae4b-ff9e1dc9a433</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::span[2]</value>
-      <webElementGuid>ed7ae4eb-c460-4fe6-a482-e0770ff8c812</webElementGuid>
+      <webElementGuid>a496c527-1e6d-4ce8-ac59-49ec34f16bdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='My Account']/parent::*</value>
-      <webElementGuid>16adae63-b176-412a-90da-7032b01a59c9</webElementGuid>
+      <webElementGuid>b6a17484-dd0f-41fe-a3d5-a8834f44bd25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/span</value>
-      <webElementGuid>615f55ef-315f-4711-9c7f-a6859b4751c4</webElementGuid>
+      <webElementGuid>ba6aabb9-6d59-49a8-bdbb-5eba7fc559a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'My Account' or . = 'My Account')]</value>
-      <webElementGuid>14fb2c79-73a6-47c4-be3e-486228ca1bec</webElementGuid>
+      <webElementGuid>f85a8345-3368-443a-a174-e62d43d816a2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

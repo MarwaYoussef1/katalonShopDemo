@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_180.00</name>
+   <tag></tag>
+   <elementGuidId>0df99bdf-1361-46f6-b684-13656523d041</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div/table/tbody/tr[2]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;$180.00&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5d0b50b7-6c9c-49bc-86c8-cad038f809ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-right</value>
+      <webElementGuid>a1442965-b8a5-4bc6-b4ae-9b49e6e8b302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$180.00</value>
+      <webElementGuid>bb58a2ca-c5ec-43f6-9748-76da6e88b392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4 col-sm-offset-8&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[2]/td[@class=&quot;text-right&quot;]</value>
+      <webElementGuid>ca0e89a7-85cd-4d15-99df-5a87c0c58c0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>1886ffe3-2e11-4121-a698-2d40d314e8fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/following::td[1]</value>
+      <webElementGuid>3ee8ab17-9bfa-44bd-9aca-2a4bdca1a891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$180.00'])[3]/following::td[2]</value>
+      <webElementGuid>a984e8b1-63bb-4c3d-a5a5-4239598dffeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::td[1]</value>
+      <webElementGuid>7eb1f385-9ba4-45be-8f79-b7e6f8fe9f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[3]/preceding::td[1]</value>
+      <webElementGuid>395c7149-ad2e-492f-b3b3-ce17c254a821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>1a9dedcb-1feb-456f-a59c-6e6a67ffb68a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '$180.00' or . = '$180.00')]</value>
+      <webElementGuid>30ec81e4-70b5-4338-981a-84e02f075ee4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

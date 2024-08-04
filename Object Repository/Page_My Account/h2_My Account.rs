@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>d778c0ca-b0a3-4c23-aeda-ca8b0465f43b</webElementGuid>
+      <webElementGuid>1f631178-c91f-4944-84c1-e7a6afade6b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>My Account</value>
-      <webElementGuid>353f16f8-a8b8-4a5a-8a64-4a2e8ccd84a4</webElementGuid>
+      <webElementGuid>724c0701-529c-4097-829d-f3c35c9a0e3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/h2[1]</value>
-      <webElementGuid>60757943-1ca1-40ec-b8e6-78661c7a4ce9</webElementGuid>
+      <webElementGuid>518e88e0-d6d3-4ccc-8ec9-72de224aa6c7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/h2</value>
-      <webElementGuid>7d377c6a-f011-4e69-808f-86bb6d184a1a</webElementGuid>
+      <webElementGuid>9112832d-5ee5-4811-90ba-637a63de0951</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::h2[1]</value>
-      <webElementGuid>a9e10c76-69b0-4e51-8ffe-ea885a327d9b</webElementGuid>
+      <webElementGuid>c674d56c-70c9-4e57-8636-6ba3a6413dad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All MP3 Players'])[1]/following::h2[1]</value>
-      <webElementGuid>730002aa-5c21-486f-a06f-b04ff31e9c9d</webElementGuid>
+      <webElementGuid>14a9f137-cf9e-466b-a87e-8dc682c17e26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Account'])[1]/preceding::h2[1]</value>
-      <webElementGuid>47b65dad-ed55-42fa-a86d-3c704489798b</webElementGuid>
+      <webElementGuid>005d5da3-3963-46d1-ad2a-289670ed00cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::h2[1]</value>
-      <webElementGuid>48d97dc9-1bcb-474d-a2f7-82a677eb888a</webElementGuid>
+      <webElementGuid>6dac857c-c5ce-4135-a9ac-612a0e4534ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>1a11b060-91d1-4093-bd6b-51057be248fa</webElementGuid>
+      <webElementGuid>91a67d60-9153-4024-b156-db40201ed18b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'My Account' or . = 'My Account')]</value>
-      <webElementGuid>0e3c90bf-4f4b-4ccb-b110-10a6615f69d7</webElementGuid>
+      <webElementGuid>491d2dd7-62ef-4c10-9688-f2d703a9e09f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2 item(s) - 180.00</name>
+   <tag></tag>
+   <elementGuidId>7a1cc43e-a1d8-4e1c-ab55-05bfadb71495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cart-total</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cart-total']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; 2 item(s) - $180.00&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24ff64e7-84a1-4927-ab73-160553d0837a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cart-total</value>
+      <webElementGuid>3399dc90-a741-4c19-bacb-8af46d63f387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 item(s) - $180.00</value>
+      <webElementGuid>bef28d1d-bc19-4f87-92c1-15e01d90f01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-total&quot;)</value>
+      <webElementGuid>5e264315-078d-4ba3-ae44-388f9964fde3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='cart-total']</value>
+      <webElementGuid>4faa82b3-5733-4438-9f74-8d37de63acc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart']/button/span</value>
+      <webElementGuid>92b108f7-2849-4505-bb3f-01e03e0db5e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Store'])[1]/following::span[2]</value>
+      <webElementGuid>72fa2f44-5555-4cf1-a26d-4eb84195a75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::span[2]</value>
+      <webElementGuid>3e037fae-953d-41b3-952d-705442777b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HTC Touch HD'])[1]/preceding::span[1]</value>
+      <webElementGuid>8e1f95a1-5b1a-4401-91c5-d52d4429f80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x 1'])[1]/preceding::span[1]</value>
+      <webElementGuid>7764e3ed-adc8-418c-b37c-802d359a4ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2 item(s) - $180.00']/parent::*</value>
+      <webElementGuid>77312d50-62cf-40bc-92c2-402b74d467d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>d7e2ad3a-907f-4475-a69f-a322982b9031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'cart-total' and (text() = '2 item(s) - $180.00' or . = '2 item(s) - $180.00')]</value>
+      <webElementGuid>e235f812-cd57-4ddf-b35d-6869a2ed2a88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

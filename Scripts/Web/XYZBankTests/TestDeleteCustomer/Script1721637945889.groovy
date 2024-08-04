@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Bank Manager 
 
 WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Add Customer'))
 
-WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51'), 'Marwa')
+WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51'), 'Yasser')
 
 WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_Last Name_form-control ng-pristine ng_64913d'), 'Youssef')
 
@@ -35,11 +35,17 @@ WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Add Customer_
 
 WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Customers'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_XYZ Bank/td_Marwa'), 'Marwa')
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Home'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_XYZ Bank/td_Anas'), 'Yasser')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_XYZ Bank/button_Bank Manager Login'))
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/button_Delete'))
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/td_Anas'))
+
+WebUI.setText(findTestObject('Object Repository/Page_XYZ Bank/input_First Name_form-control ng-pristine n_693e51'), 'Yasser')
+
+WebUI.click(findTestObject('Object Repository/Page_XYZ Bank/div_First Name                             _0d1c16'))
 
 WebUI.closeBrowser()
 

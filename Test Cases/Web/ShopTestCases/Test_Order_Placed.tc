@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TestAddAccount</name>
+   <name>Test_Order_Placed</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e5a4bcf7-db35-45bc-9b62-c10f05194004</testCaseGuid>
+   <testCaseGuid>163613bb-cd77-4131-a061-7cfccafc9a1d</testCaseGuid>
 </TestCaseEntity>

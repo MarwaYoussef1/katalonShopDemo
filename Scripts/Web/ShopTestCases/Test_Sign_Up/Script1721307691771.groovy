@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://opencart.abstracta.us/index.php?route=account/logout')
+WebUI.openBrowser('https://opencart.abstracta.us/index.php')
 
 WebUI.maximizeWindow()
 
@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Register Account/input_Firs
 
 WebUI.setText(findTestObject('Object Repository/Page_Register Account/input_Last Name_lastname'), 'Youssef')
 
-WebUI.setText(findTestObject('Object Repository/Page_Register Account/input_E-Mail_email'), 'marwa.abdelrahmaann@mailinator.com')
+WebUI.setText(findTestObject('Object Repository/Page_Register Account/input_E-Mail_email'), 'marwa.abdelrahaannn@mailinator.com')
 
 WebUI.setText(findTestObject('Object Repository/Page_Register Account/input_Telephone_telephone'), '010098765432')
 
@@ -48,3 +48,4 @@ WebUI.click(findTestObject('Object Repository/Page_Checkout/span_My Account'))
 WebUI.click(findTestObject('Object Repository/Page_Checkout/a_Logout'))
 
 WebUI.closeBrowser()
+
