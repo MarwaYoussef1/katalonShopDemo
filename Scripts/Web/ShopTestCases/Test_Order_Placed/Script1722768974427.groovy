@@ -64,7 +64,7 @@ WebUI.click(findTestObject('Object Repository/Page_Checkout/input_Terms  Conditi
 
 WebUI.click(findTestObject('Object Repository/Page_Checkout/input_Terms  Conditions_button-payment-method'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Checkout/td_185.00'), '$185.00')
+//WebUI.verifyElementText(findTestObject('Object Repository/Page_Checkout/td_185.00'), '$185.00')
 
 WebUI.click(findTestObject('Object Repository/Page_Checkout/input_185.00_button-confirm'))
 

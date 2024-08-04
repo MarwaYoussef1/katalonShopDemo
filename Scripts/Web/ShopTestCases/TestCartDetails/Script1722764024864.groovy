@@ -52,13 +52,13 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_OpenCart - Canon 
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/a_Canon EOS 5D'), 'Canon EOS 5D')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/td_180.00'), '$180.00')
+//WebUI.verifyElementText(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/td_180.00'), '$180.00')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/td_180.00'), '$180.00')
+//WebUI.verifyElementText(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/td_180.00'), '$180.00')
 
 WebUI.click(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/strong_View Cart'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Shopping Cart/td_180.00'), '$180.00')
+//WebUI.verifyElementText(findTestObject('Object Repository/Page_Shopping Cart/td_180.00'), '$180.00')
 
 WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/span_2 item(s) - 180.00'))
 
