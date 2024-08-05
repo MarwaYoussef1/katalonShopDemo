@@ -9,4 +9,14 @@
       <initValue>'https://opencart.abstracta.us/index.php'</initValue>
       <name>HOME_URL</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>API_Token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>BOOKING_ID</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

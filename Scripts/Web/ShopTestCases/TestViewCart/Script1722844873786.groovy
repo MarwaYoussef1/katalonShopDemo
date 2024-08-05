@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://opencart.abstracta.us/index.php')
 
-WebUI.click(findTestObject('Object Repository/Page_Your Store/span_My Account'))
+WebUI.click(findTestObject('Object Repository/Page_Your Store/span_My Account_caret'))
 
 WebUI.click(findTestObject('Object Repository/Page_Your Store/a_Login'))
 
@@ -29,49 +29,51 @@ WebUI.setText(findTestObject('Object Repository/Page_Account Login/input_E-Mail 
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Account Login/input_Password_password'), 'cYYE/iK6uDo=')
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Account Login/input_Password_password'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Page_Account Login/input_Forgotten Password_btn btn-primary'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_My Account/h2_My Account'), 0)
 
 WebUI.click(findTestObject('Object Repository/Page_My Account/a_Phones  PDAs'))
 
+WebUI.click(findTestObject('Object Repository/Page_Phones  PDAs/span_Add to Cart'))
+
+WebUI.click(findTestObject('Object Repository/Page_Phones  PDAs/a_Tablets'))
+
+WebUI.click(findTestObject('Object Repository/Page_Tablets/span_Add to Cart'))
+
+WebUI.click(findTestObject('Object Repository/Page_Tablets/button_2 item(s) - 300.99'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Tablets/strong_View Cart'), 0)
+
+WebUI.click(findTestObject('Object Repository/Page_Tablets/strong_View Cart'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Shopping Cart/a_iPhone'), 'iPhone')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Shopping Cart/a_Samsung Galaxy Tab 10.1'), 'Samsung Galaxy Tab 10.1')
+
+WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/i_100.00_fa fa-times'))
+
 WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/i_100.00_fa fa-times'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/a_Phones  PDAs'))
+
+WebUI.navigateToUrl('https://opencart.abstracta.us/index.php?route=product/category&path=24')
 
 WebUI.click(findTestObject('Object Repository/Page_Phones  PDAs/span_Add to Cart'))
 
-WebUI.click(findTestObject('Object Repository/Page_Phones  PDAs/a_Cameras'))
+WebUI.click(findTestObject('Object Repository/Page_Phones  PDAs/button_1 item(s) - 279.99'))
 
-WebUI.click(findTestObject('Object Repository/Page_Cameras/span_Add to Cart'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Phones  PDAs/a_Palm Treo Pro'), 0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/select_--- Please Select ---               _05c2cc'), 
-    '15', true)
+WebUI.click(findTestObject('Object Repository/Page_Phones  PDAs/i_279.99_fa fa-times'))
 
-WebUI.click(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/button_Add to Cart'))
+WebUI.click(findTestObject('Object Repository/Page_Phones  PDAs/a_My Account'))
 
-WebUI.click(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/button_2 item(s) - 180.00'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/a_HTC Touch HD'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/a_Canon EOS 5D'), FailureHandling.STOP_ON_FAILURE)
-
-//WebUI.verifyElementText(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/td_180.00'), '$180.00')
-//WebUI.verifyElementText(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/td_180.00'), '$180.00')
-WebUI.click(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/strong_View Cart'))
-
-//WebUI.verifyElementText(findTestObject('Object Repository/Page_Shopping Cart/td_180.00'), '$180.00')
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/span_2 item(s) - 180.00'))
-
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/i_100.00_fa fa-times'))
-
-WebUI.delay(1)
-
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/button_1 item(s) - 80.00'))
-
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/i_100.00_fa fa-times'))
-
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/span_My Account'))
-
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/a_Logout'))
+WebUI.click(findTestObject('Object Repository/Page_Phones  PDAs/a_Logout'))
 
 WebUI.closeBrowser()
 

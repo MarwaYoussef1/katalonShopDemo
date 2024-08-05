@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Login</name>
+   <name>a_Palm Treo Pro</name>
    <tag></tag>
-   <elementGuidId>53247a7b-4688-4efc-8ba0-62d5315be4b5</elementGuidId>
+   <elementGuidId>e6c22012-6220-4371-bb2d-5b14e267ca0d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
+         <value>//div[@id='cart']/ul/li/table/tbody/tr/td[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>ul.dropdown-menu.dropdown-menu-right > li:nth-of-type(2) > a</value>
+         <value>td.text-left > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Login&quot;i]</value>
+         <value>#cart >> internal:text=&quot;Palm Treo Pro&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,110 +29,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>edab0dad-45ae-42d5-a263-507747257b4f</webElementGuid>
+      <webElementGuid>20904b61-30bd-433e-9e28-b162c70fbdf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://opencart.abstracta.us:443/index.php?route=account/login</value>
-      <webElementGuid>cae1c382-3c3a-421b-9275-532f370c57c9</webElementGuid>
+      <value>http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=29</value>
+      <webElementGuid>6a468b86-5245-4c4a-bf97-900fbfb18b98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>1e4b9981-2817-48fb-836b-10bb49bdbb13</webElementGuid>
+      <value>Palm Treo Pro</value>
+      <webElementGuid>32e2d0f7-78a3-4cdd-b0bc-e8aa4943badc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right&quot;]/li[2]/a[1]</value>
-      <webElementGuid>e511222f-1cb1-4f75-bc3d-ddce014749f3</webElementGuid>
+      <value>id(&quot;cart&quot;)/ul[@class=&quot;dropdown-menu pull-right&quot;]/li[1]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[1]/td[@class=&quot;text-left&quot;]/a[1]</value>
+      <webElementGuid>caccd668-0a62-4eca-a581-793e0743cbfb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
-      <webElementGuid>5f1beae4-a3cc-428e-a0be-4b7e1aea3edf</webElementGuid>
+      <value>//div[@id='cart']/ul/li/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>652bddfe-a116-430c-a740-dd8074e45ad2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>15abe5d8-83ed-4bf9-a71c-caa7e0a12224</webElementGuid>
+      <value>//a[contains(text(),'Palm Treo Pro')]</value>
+      <webElementGuid>580ee403-f3db-4591-a4fb-9a2bdb2f0ae0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>dbeb5a99-6039-447a-850b-a8a2fd6b6271</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Store'])[1]/following::a[2]</value>
+      <webElementGuid>edf81441-3dbe-486a-9e9d-0132ee855d65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/following::a[2]</value>
-      <webElementGuid>64fc8331-23ea-4384-8405-81f91bfe066d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::a[3]</value>
+      <webElementGuid>536df95b-ac8b-46db-83ca-ef690e028f59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (0)'])[1]/preceding::a[1]</value>
-      <webElementGuid>06a1178d-6802-4077-b673-55365e387899</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x 1'])[1]/preceding::a[1]</value>
+      <webElementGuid>27a39fdc-3dcb-4050-80ba-d5aec41460c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>b6dc182c-f698-4abb-adab-11747f2f910e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$279.99'])[1]/preceding::a[1]</value>
+      <webElementGuid>66004a75-ab1f-4d15-b39d-3087f2c36b3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>828ded36-cc50-4822-b54a-0b81684865bb</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Palm Treo Pro']/parent::*</value>
+      <webElementGuid>c26eac1b-2d46-436b-9f30-1cff209d0226</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://opencart.abstracta.us:443/index.php?route=account/login')]</value>
-      <webElementGuid>a58a416c-67fc-432c-9c35-4a36f41bbcb1</webElementGuid>
+      <value>(//a[@href='http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=29'])[2]</value>
+      <webElementGuid>36b78783-a016-4827-97f3-5c8d2eb82c54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/ul/li[2]/a</value>
-      <webElementGuid>800c9484-e7ec-4a82-b90c-fa42e8b0e989</webElementGuid>
+      <value>//td[2]/a</value>
+      <webElementGuid>34d48a7b-0238-494e-98de-6872659d037d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://opencart.abstracta.us:443/index.php?route=account/login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>7c07cb55-681a-4b64-88c5-f1ad95e77b9a</webElementGuid>
+      <value>//a[@href = 'http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=29' and (text() = 'Palm Treo Pro' or . = 'Palm Treo Pro')]</value>
+      <webElementGuid>33315e24-0ecf-4eea-a74c-030e92068f2a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

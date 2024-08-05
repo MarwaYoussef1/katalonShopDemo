@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Canon EOS 5D</name>
+   <name>span_1 item(s) - 279.99</name>
    <tag></tag>
-   <elementGuidId>433a4b2c-a06b-490f-9f66-97c0150b2aa1</elementGuidId>
+   <elementGuidId>15425e6b-1626-4876-acf2-749d242d9740</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>tr:nth-of-type(2) > td.text-left > a</value>
+         <key>XPATH</key>
+         <value>//span[@id='cart-total']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Canon EOS 5D')]</value>
+         <key>CSS</key>
+         <value>#cart-total</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=cell[name=&quot;Canon EOS 5D - Select Red&quot;i] >> internal:role=link</value>
+         <value>internal:role=button[name=&quot; 1 item(s) - $279.99&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,103 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>e06bee7b-3990-431d-9211-63bc0456361c</webElementGuid>
+      <value>span</value>
+      <webElementGuid>60027230-4a89-4364-b266-50d450caaa47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=30</value>
-      <webElementGuid>edeea2ee-3df8-486f-9a30-3167e7803201</webElementGuid>
+      <value>cart-total</value>
+      <webElementGuid>45156753-4f71-4a30-a7dd-2370dea6a40e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Canon EOS 5D</value>
-      <webElementGuid>cbd162d3-5894-4f4e-9aac-a66ca4461120</webElementGuid>
+      <value> 1 item(s) - $279.99</value>
+      <webElementGuid>f285705e-54db-46ae-8312-e1b381327e7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cart&quot;)/ul[@class=&quot;dropdown-menu pull-right&quot;]/li[1]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[2]/td[@class=&quot;text-left&quot;]/a[1]</value>
-      <webElementGuid>3fcb776d-7fd6-4398-a4e8-35e3ef12827c</webElementGuid>
+      <value>id(&quot;cart-total&quot;)</value>
+      <webElementGuid>6d8c9c3e-035f-4f18-8772-efda548e175f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='cart-total']</value>
+      <webElementGuid>1a06fe78-3477-4880-b8eb-a14cd32561f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='cart']/ul/li/table/tbody/tr[2]/td[2]/a</value>
-      <webElementGuid>3cabb0ae-b487-4c47-bb3e-d0c0770416ba</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Canon EOS 5D')]</value>
-      <webElementGuid>ae3eb041-efde-460d-ae73-727b1c92f034</webElementGuid>
+      <value>//div[@id='cart']/button/span</value>
+      <webElementGuid>95db50ac-a2c8-49c6-a032-f6f55bf5c404</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='$100.00'])[1]/following::a[2]</value>
-      <webElementGuid>aa9a287e-8d99-456b-abb0-8a06e7fedc5a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Store'])[1]/following::span[2]</value>
+      <webElementGuid>2e726d57-ab9e-4d15-9ac5-c0deaff73e3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Red'])[1]/preceding::a[1]</value>
-      <webElementGuid>ff397e2c-4bd2-4498-b62a-3bed549a5d5b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::span[2]</value>
+      <webElementGuid>0369cbae-9d9e-4428-ba70-4bf9e44551c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='x 1'])[2]/preceding::a[1]</value>
-      <webElementGuid>4d516323-76a1-4268-92b3-24cf0a2cec8f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Palm Treo Pro'])[1]/preceding::span[1]</value>
+      <webElementGuid>748c31f1-3dbd-40b3-9136-ca5691d53338</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Canon EOS 5D']/parent::*</value>
-      <webElementGuid>38e77488-508e-4e5f-9b9f-8f7b010c6917</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x 1'])[1]/preceding::span[1]</value>
+      <webElementGuid>348d0c35-9b77-48a3-8620-feee7d2066de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//a[@href='http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=30'])[2]</value>
-      <webElementGuid>2bfe8937-80cf-4708-9cc2-a95e20eb5413</webElementGuid>
+      <value>//*/text()[normalize-space(.)='1 item(s) - $279.99']/parent::*</value>
+      <webElementGuid>ac17cdbe-916a-4bf5-b8ef-25b1ff49fe1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[2]/td[2]/a</value>
-      <webElementGuid>2b5e94a6-211d-4ee0-bb2a-0bb2477b0ae7</webElementGuid>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>adb5a2c7-0d5a-4e41-88ac-8236453f4cb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=30' and (text() = 'Canon EOS 5D' or . = 'Canon EOS 5D')]</value>
-      <webElementGuid>59245984-27cc-42bd-80be-d633a6dd0f8d</webElementGuid>
+      <value>//span[@id = 'cart-total' and (text() = ' 1 item(s) - $279.99' or . = ' 1 item(s) - $279.99')]</value>
+      <webElementGuid>8b15507c-f43d-41cd-8951-01419142448e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

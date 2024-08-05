@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestDeleteBooking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e09e9dd8-2ec0-4474-b2bd-e3f95459baf6</testCaseGuid>
+</TestCaseEntity>

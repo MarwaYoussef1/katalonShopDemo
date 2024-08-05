@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Login</name>
+   <name>a_Samsung Galaxy Tab 10.1</name>
    <tag></tag>
-   <elementGuidId>53247a7b-4688-4efc-8ba0-62d5315be4b5</elementGuidId>
+   <elementGuidId>99e68a52-2b68-4735-94b4-ee8560ccfe70</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
+         <value>//div[@id='content']/form/div/table/tbody/tr[2]/td[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>ul.dropdown-menu.dropdown-menu-right > li:nth-of-type(2) > a</value>
+         <value>table.table.table-bordered > tbody > tr:nth-of-type(2) > td.text-left > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Login&quot;i]</value>
+         <value>internal:role=cell[name=&quot;Samsung Galaxy Tab 10.1 *** Reward Points: 1000&quot;i] >> internal:role=link</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,110 +29,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>edab0dad-45ae-42d5-a263-507747257b4f</webElementGuid>
+      <webElementGuid>bef1edbe-4d73-411e-a74f-5cdf81817e87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://opencart.abstracta.us:443/index.php?route=account/login</value>
-      <webElementGuid>cae1c382-3c3a-421b-9275-532f370c57c9</webElementGuid>
+      <value>http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=49</value>
+      <webElementGuid>2a398f6c-e7af-453b-94d5-1af01c1a9e1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>1e4b9981-2817-48fb-836b-10bb49bdbb13</webElementGuid>
+      <value>Samsung Galaxy Tab 10.1</value>
+      <webElementGuid>1e54651f-3fb7-40ea-a6bd-1749ae20461b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right&quot;]/li[2]/a[1]</value>
-      <webElementGuid>e511222f-1cb1-4f75-bc3d-ddce014749f3</webElementGuid>
+      <value>id(&quot;content&quot;)/form[1]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[2]/td[@class=&quot;text-left&quot;]/a[1]</value>
+      <webElementGuid>5209152a-81ef-479e-8d64-ba39ab04993a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='top-links']/ul/li[2]/ul/li[2]/a</value>
-      <webElementGuid>5f1beae4-a3cc-428e-a0be-4b7e1aea3edf</webElementGuid>
+      <value>//div[@id='content']/form/div/table/tbody/tr[2]/td[2]/a</value>
+      <webElementGuid>a57819b2-00f0-452a-a517-ec160fb20c1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>15abe5d8-83ed-4bf9-a71c-caa7e0a12224</webElementGuid>
+      <value>(//a[contains(text(),'Samsung Galaxy Tab 10.1')])[2]</value>
+      <webElementGuid>7ed6a329-f87a-42d4-87b0-e5ca675a9685</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>dbeb5a99-6039-447a-850b-a8a2fd6b6271</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$101.00'])[3]/following::a[2]</value>
+      <webElementGuid>837819f8-664f-41ca-bcd9-93459b7c5b82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/following::a[2]</value>
-      <webElementGuid>64fc8331-23ea-4384-8405-81f91bfe066d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$101.00'])[2]/following::a[2]</value>
+      <webElementGuid>851aed7c-a77f-47ab-88c4-47cb9a0e72f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (0)'])[1]/preceding::a[1]</value>
-      <webElementGuid>06a1178d-6802-4077-b673-55365e387899</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='***'])[2]/preceding::a[1]</value>
+      <webElementGuid>fa1ff673-d428-43dc-85c8-db29e4684905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>b6dc182c-f698-4abb-adab-11747f2f910e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>828ded36-cc50-4822-b54a-0b81684865bb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reward Points: 1000'])[1]/preceding::a[1]</value>
+      <webElementGuid>1ff9b5e7-4566-4163-a9ca-d716f8dff980</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://opencart.abstracta.us:443/index.php?route=account/login')]</value>
-      <webElementGuid>a58a416c-67fc-432c-9c35-4a36f41bbcb1</webElementGuid>
+      <value>(//a[@href='http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=49'])[4]</value>
+      <webElementGuid>dffc2682-16c2-479d-a8f5-12e692e7d5f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/ul/li[2]/a</value>
-      <webElementGuid>800c9484-e7ec-4a82-b90c-fa42e8b0e989</webElementGuid>
+      <value>//div/table/tbody/tr[2]/td[2]/a</value>
+      <webElementGuid>cfc393c3-8c7e-4e9b-acc7-dccc58fd7357</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://opencart.abstracta.us:443/index.php?route=account/login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>7c07cb55-681a-4b64-88c5-f1ad95e77b9a</webElementGuid>
+      <value>//a[@href = 'http://opencart.abstracta.us:80/index.php?route=product/product&amp;product_id=49' and (text() = 'Samsung Galaxy Tab 10.1' or . = 'Samsung Galaxy Tab 10.1')]</value>
+      <webElementGuid>b5881cf4-16d6-4b5d-9263-bcb5fdf6b1c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

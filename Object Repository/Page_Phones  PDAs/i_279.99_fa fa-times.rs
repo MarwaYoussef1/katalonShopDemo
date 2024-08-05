@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_My Account_caret</name>
+   <name>i_279.99_fa fa-times</name>
    <tag></tag>
-   <elementGuidId>159f6f0d-2607-4533-8a82-116ed22a68f6</elementGuidId>
+   <elementGuidId>e3c54a1d-0215-410b-a33e-917008f74ca3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='top-links']/ul/li[2]/a/span[2]</value>
+         <value>//div[@id='cart']/ul/li/table/tbody/tr/td[5]/button/i</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.caret</value>
+         <value>i.fa.fa-times</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; My Account&quot;i]</value>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,39 +28,39 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>37bdebb8-0664-46b0-88d9-038ca4784bdc</webElementGuid>
+      <value>i</value>
+      <webElementGuid>7a2ef60f-f59c-42a7-89a8-f2cf954f98b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>caret</value>
-      <webElementGuid>906a69cc-54b2-455d-8202-7b809e559b33</webElementGuid>
+      <value>fa fa-times</value>
+      <webElementGuid>a2d1750a-47ce-4a46-ab78-c7419c4afbd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;caret&quot;]</value>
-      <webElementGuid>ebdb5406-483e-4193-ba22-b61ba90160f7</webElementGuid>
+      <value>id(&quot;cart&quot;)/ul[@class=&quot;dropdown-menu pull-right&quot;]/li[1]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[1]/td[@class=&quot;text-center&quot;]/button[@class=&quot;btn btn-danger btn-xs&quot;]/i[@class=&quot;fa fa-times&quot;]</value>
+      <webElementGuid>592a29a0-9d03-433a-9c8f-fbbc2e7124e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='top-links']/ul/li[2]/a/span[2]</value>
-      <webElementGuid>46c75ed9-e5cd-48d5-bbd7-21bbf9332fbf</webElementGuid>
+      <value>//div[@id='cart']/ul/li/table/tbody/tr/td[5]/button/i</value>
+      <webElementGuid>4dea651c-3e55-4b3b-ada9-33e740d4b49e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]</value>
-      <webElementGuid>4ef72faa-3ac6-45c5-81e0-a068f939e16b</webElementGuid>
+      <value>//td[5]/button/i</value>
+      <webElementGuid>f597860a-1c63-498e-887e-c130ed13256a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

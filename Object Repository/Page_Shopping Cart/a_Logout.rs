@@ -6,12 +6,12 @@
    <elementGuidId>82cec1a8-3f7d-412b-94b9-474a9042318c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li:nth-of-type(5) > a</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='top-links']/ul/li[2]/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>be02acd0-4a9a-4c64-8769-13af219cd1e2</webElementGuid>
+      <webElementGuid>489f40c2-238d-4371-ae0d-71311701f677</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://opencart.abstracta.us:443/index.php?route=account/logout</value>
-      <webElementGuid>211914ba-598b-4e16-9762-8d9a083f7079</webElementGuid>
+      <webElementGuid>edcb55bf-a78a-4cfe-aba7-104f0b7ff1d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>af7051c5-16f7-4c07-934d-8ac4ee64da7c</webElementGuid>
+      <webElementGuid>6a628ef1-9f6c-4c08-9340-38179f8faf50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right&quot;]/li[5]/a[1]</value>
-      <webElementGuid>1aad01ac-54d3-45b3-ad5a-6cbfe317aa84</webElementGuid>
+      <webElementGuid>06e17c36-712f-4feb-bc5c-84c354be8e70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top-links']/ul/li[2]/ul/li[5]/a</value>
-      <webElementGuid>9ae9c632-cad8-4a91-b41c-34ee33608a3d</webElementGuid>
+      <webElementGuid>c2f779d3-2038-423b-9736-a9eb2592f41b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>e283a16d-71a4-40e4-a0b7-1cb61b794389</webElementGuid>
+      <webElementGuid>bcfbfd5b-8133-4915-ad26-ec5dfb2fe8d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Downloads'])[1]/following::a[1]</value>
-      <webElementGuid>969f8f46-f217-488b-815b-235cd1c9f02d</webElementGuid>
+      <webElementGuid>bc7c7476-6c54-4548-a95f-a3932ab9bbe4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/following::a[2]</value>
-      <webElementGuid>b4d68269-3bbb-41f8-a45b-7cb92b6105ee</webElementGuid>
+      <webElementGuid>e2b13060-07aa-42b8-93b1-5c17793e484f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wish List (0)'])[1]/preceding::a[1]</value>
-      <webElementGuid>7a8b0959-c7b4-4626-b087-1580eeb56044</webElementGuid>
+      <webElementGuid>64103d77-c0f8-4fe5-9ba8-f218f2bf26b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[2]/preceding::a[2]</value>
-      <webElementGuid>413355b9-a165-4d3a-8fd4-ca57127bed01</webElementGuid>
+      <webElementGuid>869d4ea7-2baa-4676-89ad-b0c92f863c34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>4b1c2231-dd2c-412c-b8ce-925e6b9a61ed</webElementGuid>
+      <webElementGuid>73579a24-a68a-48da-b915-40f0deae3f92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://opencart.abstracta.us:443/index.php?route=account/logout')]</value>
-      <webElementGuid>820fde6d-0641-477d-97bd-6458598fb303</webElementGuid>
+      <webElementGuid>b89f45a6-5187-4976-8d6a-e0fa9f03dca7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/ul/li[5]/a</value>
-      <webElementGuid>197ade96-bd47-4ff3-a9d1-714a8a59763f</webElementGuid>
+      <webElementGuid>b29b8ae9-4387-4a02-af80-e86b8c46c3af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://opencart.abstracta.us:443/index.php?route=account/logout' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>0dc4e75a-8f04-437f-8d39-d4e538cb3ba5</webElementGuid>
+      <webElementGuid>dcdb99bf-cb74-4e5e-84fd-11eefe631833</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,19 +6,19 @@
    <elementGuidId>06b5f42f-9265-44ac-8d83-c24e9b0b3da3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.fa.fa-times</value>
+         <key>XPATH</key>
+         <value>//div[@id='content']/form/div/table/tbody/tr/td[4]/div/span/button[2]/i</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='cart']/ul/li/table/tbody/tr/td[5]/button/i</value>
+         <key>CSS</key>
+         <value>i.fa.fa-times-circle</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=row[name=&quot;HTC Touch HD HTC Touch HD x 1 $100.00 &quot;i] >> internal:attr=[title=&quot;Remove&quot;i]</value>
+         <value>internal:role=button[name=&quot;&quot;i] >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,31 +29,47 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>d491629e-389d-463a-9f92-7b93b51a5d05</webElementGuid>
+      <webElementGuid>ec23d1d9-6930-4682-a379-466f576489da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fa fa-times</value>
-      <webElementGuid>0b7215cc-d5ee-47b3-baa5-fced5c0bd612</webElementGuid>
+      <value>fa fa-times-circle</value>
+      <webElementGuid>286c70d7-d913-4cad-8a85-b7e33cfbbec3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cart&quot;)/ul[@class=&quot;dropdown-menu pull-right&quot;]/li[1]/table[@class=&quot;table table-striped&quot;]/tbody[1]/tr[1]/td[@class=&quot;text-center&quot;]/button[@class=&quot;btn btn-danger btn-xs&quot;]/i[@class=&quot;fa fa-times&quot;]</value>
-      <webElementGuid>8a5c2aef-39a2-413b-aac2-e411cb9d7158</webElementGuid>
+      <value>id(&quot;content&quot;)/form[1]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[1]/td[@class=&quot;text-left&quot;]/div[@class=&quot;input-group btn-block&quot;]/span[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-danger&quot;]/i[@class=&quot;fa fa-times-circle&quot;]</value>
+      <webElementGuid>b50c6c53-bfc0-4f76-a34c-1fbb09d19916</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='content']/form/div/table/tbody/tr/td[4]/div/span/button[2]/i</value>
+      <webElementGuid>6cdbec0b-98b3-4ddb-a0aa-78e386408fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>9dbb28f5-9767-4ac4-abde-2a20acdfc367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='cart']/ul/li/table/tbody/tr/td[5]/button/i</value>
-      <webElementGuid>a105865a-2ca0-44a4-8e7b-f65f2b54f061</webElementGuid>
+      <webElementGuid>3ad56040-7e2e-4c25-a3d8-37b807574a5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +77,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[5]/button/i</value>
-      <webElementGuid>b997ae0f-ba1e-4126-ba1c-3f1966fdf7a3</webElementGuid>
+      <webElementGuid>89e01be8-e0ee-4877-98be-8474c03d82d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

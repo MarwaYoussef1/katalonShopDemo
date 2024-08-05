@@ -3,7 +3,7 @@
    <description></description>
    <name>span_My Account_caret</name>
    <tag></tag>
-   <elementGuidId>159f6f0d-2607-4533-8a82-116ed22a68f6</elementGuidId>
+   <elementGuidId>648382e3-4a1a-4196-8812-d3e5baeb39af</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>37bdebb8-0664-46b0-88d9-038ca4784bdc</webElementGuid>
+      <webElementGuid>70a08686-f28f-4363-8643-51f12b9ecbf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>caret</value>
-      <webElementGuid>906a69cc-54b2-455d-8202-7b809e559b33</webElementGuid>
+      <webElementGuid>a074d959-d5a4-4c88-bdb5-afad5aa8197b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;top-links&quot;)/ul[@class=&quot;list-inline&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle&quot;]/span[@class=&quot;caret&quot;]</value>
-      <webElementGuid>ebdb5406-483e-4193-ba22-b61ba90160f7</webElementGuid>
+      <webElementGuid>d5edc820-e608-4d07-8731-d2b399438502</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='top-links']/ul/li[2]/a/span[2]</value>
-      <webElementGuid>46c75ed9-e5cd-48d5-bbd7-21bbf9332fbf</webElementGuid>
+      <webElementGuid>0ae17074-396a-47e6-9a8d-eb36fdacb052</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]</value>
-      <webElementGuid>4ef72faa-3ac6-45c5-81e0-a068f939e16b</webElementGuid>
+      <webElementGuid>f6ee42df-ecd1-411a-8e8a-6bb7d590fd24</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
