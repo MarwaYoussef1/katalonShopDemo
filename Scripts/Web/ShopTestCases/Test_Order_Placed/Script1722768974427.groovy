@@ -44,6 +44,8 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_OpenCart - Cano
 
 WebUI.click(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/button_Add to Cart'))
 
+WebUI.delay(1)
+
 WebUI.click(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/span_2 item(s) - 180.00'))
 
 WebUI.click(findTestObject('Object Repository/Page_OpenCart - Canon EOS 5D/strong_View Cart'))

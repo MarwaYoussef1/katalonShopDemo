@@ -69,6 +69,8 @@ WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/button_1 item(s
 
 WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/i_100.00_fa fa-times'))
 
+WebUI.delay(1)
+
 WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/span_My Account'))
 
 WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/a_Logout'))
